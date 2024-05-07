@@ -1,0 +1,56 @@
+{
+  "invoice_id": 441820,
+  "issue_date": "2024-04-06",
+  "due_date": "2024-04-26",
+  "issuer": {
+    "name": "Wilson PLC",
+    "address": "0005 Logan Drives\nRobertmouth, NC 27085",
+    "phone": "(371)731-0592x45979",
+    "email": "april39@wolf-peterson.com",
+    "tax_id": "XUD810TJw410"
+  },
+  "recipient": {
+    "name": "Megan Jackson",
+    "address": "0964 Olson Estates Suite 966\nNew Jason, NV 60790",
+    "phone": "455-983-6985",
+    "email": "castillodaniel@yahoo.com",
+    "tax_id": "VwM777xkj827"
+  },
+  "items": [
+    {
+      "description": "reinvent out-of-the-box eyeballs",
+      "quantity": 8,
+      "unit_price": 69.72,
+      "total": 557.76
+    },
+    {
+      "description": "transition bleeding-edge initiatives",
+      "quantity": 1,
+      "unit_price": 40.93,
+      "total": 40.93
+    },
+    {
+      "description": "unleash intuitive models",
+      "quantity": 8,
+      "unit_price": 12.63,
+      "total": 101.04
+    },
+    {
+      "description": "unleash leading-edge deliverables",
+      "quantity": 10,
+      "unit_price": 39.18,
+      "total": 391.8
+    }
+  ],
+  "subtotal": 1091.53,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 174.64
+    }
+  ],
+  "total": 1266.17,
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

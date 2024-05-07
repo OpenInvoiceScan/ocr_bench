@@ -1,0 +1,50 @@
+{
+  "invoice_id": 600301,
+  "issue_date": "2024-03-11",
+  "due_date": "2024-04-15",
+  "issuer": {
+    "name": "Williams, York and Schwartz",
+    "address": "540 Strong Green\nNorth April, AK 08628",
+    "phone": "2803178625",
+    "email": "hamptondanielle@griffin.com",
+    "tax_id": "vsP770Fmb986"
+  },
+  "recipient": {
+    "name": "Katrina Fritz",
+    "address": "0936 Butler Villages Apt. 228\nWilliamhaven, NY 24061",
+    "phone": "+1-905-539-8849x13583",
+    "email": "mariah65@gmail.com",
+    "tax_id": "arF309WLD229"
+  },
+  "items": [
+    {
+      "description": "expedite 24/7 systems",
+      "quantity": 9,
+      "unit_price": 80.86,
+      "total": 727.74
+    },
+    {
+      "description": "orchestrate web-enabled models",
+      "quantity": 7,
+      "unit_price": 65.31,
+      "total": 457.17
+    },
+    {
+      "description": "drive enterprise technologies",
+      "quantity": 10,
+      "unit_price": 46.53,
+      "total": 465.3
+    }
+  ],
+  "subtotal": 1650.21,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 264.03
+    }
+  ],
+  "total": 1914.24,
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

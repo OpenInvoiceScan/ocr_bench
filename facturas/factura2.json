@@ -1,0 +1,38 @@
+{
+  "invoice_id": 569724,
+  "issue_date": "2024-03-18",
+  "due_date": "2024-04-19",
+  "issuer": {
+    "name": "Juarez, Carlson and Olson",
+    "address": "71101 Ellis Cape\nJohnsonchester, KY 67965",
+    "phone": "001-525-349-0239x461",
+    "email": "brandon91@turner-davis.com",
+    "tax_id": "UhZ894yyl043"
+  },
+  "recipient": {
+    "name": "Karen West",
+    "address": "USCGC Garrett\nFPO AE 06436",
+    "phone": "001-836-738-1191",
+    "email": "alexanderpierce@hotmail.com",
+    "tax_id": "fcq691FbE298"
+  },
+  "items": [
+    {
+      "description": "optimize best-of-breed schemas",
+      "quantity": 8,
+      "unit_price": 50.26,
+      "total": 402.08
+    }
+  ],
+  "subtotal": 402.08,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 64.33
+    }
+  ],
+  "total": 466.41,
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

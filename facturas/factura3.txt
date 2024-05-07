@@ -1,0 +1,50 @@
+Factura
+956444
+
+Fecha de emisión: 2024-03-09
+Fecha de vencimiento: 2024-05-03
+
+Datos del Emisor:
+
+Hartman LLC
+
+9254 Walker Avenue Apt. 931 Raymondville, AR
+58121
+
+001-613-442-5789x26267
+chapmanshelleyOgrant.com
+
+LRt362Lmy093
+
+Datos del Receptor:
+Emily Williams
+
+11230 Andrew Garden Suite 669 Morenomouth, AZ
+
+51114
+499-897-0381x824
+shannon260 gmail.com
+NI¡398a00Q338
+
+Descripción Cantidad Precio Unitario
+enable user-centric markets 7 67.76
+transform scalable vortals 6 56.14
+monetize robust channels 1 36.74
+syndicate customized initiatives 7 75.66
+
+cultivate impactful niches 9 71.0
+
+474.32
+
+336.84
+
+36.74
+
+529.62
+
+639.0
+
+Subtotal: 2016.52
+VAT (16%): 322.64
+Total: 2339.16
+

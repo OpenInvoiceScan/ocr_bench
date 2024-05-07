@@ -1,0 +1,44 @@
+{
+  "invoice_id": 302087,
+  "issue_date": "2024-04-03",
+  "due_date": "2024-05-04",
+  "issuer": {
+    "name": "Escobar Ltd",
+    "address": "23753 Kevin Heights Apt. 952\nEast James, NH 58110",
+    "phone": "852-611-7600x00438",
+    "email": "rosewhitney@hull.info",
+    "tax_id": "ylL086tzq553"
+  },
+  "recipient": {
+    "name": "Dawn Huff",
+    "address": "19318 Lewis Alley\nJessicafort, DE 07200",
+    "phone": "001-355-759-3217",
+    "email": "leah45@hotmail.com",
+    "tax_id": "BAd485Cms932"
+  },
+  "items": [
+    {
+      "description": "re-contextualize world-class portals",
+      "quantity": 1,
+      "unit_price": 88.74,
+      "total": 88.74
+    },
+    {
+      "description": "enable robust methodologies",
+      "quantity": 5,
+      "unit_price": 10.09,
+      "total": 50.45
+    }
+  ],
+  "subtotal": 139.19,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 22.27
+    }
+  ],
+  "total": 161.46,
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

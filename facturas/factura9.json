@@ -1,0 +1,56 @@
+{
+  "invoice_id": 748950,
+  "issue_date": "2024-04-05",
+  "due_date": "2024-04-11",
+  "issuer": {
+    "name": "Hall, Howard and Compton",
+    "address": "7780 Christine Underpass\nEast Daniel, SD 10665",
+    "phone": "546-443-6969",
+    "email": "mathisnatalie@fitzgerald.com",
+    "tax_id": "YzN809qpY325"
+  },
+  "recipient": {
+    "name": "John Martin",
+    "address": "981 Perez Ports\nCheryltown, VA 68274",
+    "phone": "(913)675-2764x8171",
+    "email": "tiffany56@yahoo.com",
+    "tax_id": "IKQ896GSX614"
+  },
+  "items": [
+    {
+      "description": "morph scalable functionalities",
+      "quantity": 4,
+      "unit_price": 34.04,
+      "total": 136.16
+    },
+    {
+      "description": "harness viral eyeballs",
+      "quantity": 9,
+      "unit_price": 88.77,
+      "total": 798.93
+    },
+    {
+      "description": "enable one-to-one systems",
+      "quantity": 5,
+      "unit_price": 60.5,
+      "total": 302.5
+    },
+    {
+      "description": "iterate intuitive ROI",
+      "quantity": 10,
+      "unit_price": 50.02,
+      "total": 500.2
+    }
+  ],
+  "subtotal": 1737.79,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 278.05
+    }
+  ],
+  "total": 2015.84,
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

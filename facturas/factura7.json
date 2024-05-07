@@ -1,0 +1,38 @@
+{
+  "invoice_id": 699455,
+  "issue_date": "2024-03-09",
+  "due_date": "2024-04-28",
+  "issuer": {
+    "name": "Calderon, Taylor and Freeman",
+    "address": "372 Phillips Roads\nNewmanmouth, PW 89903",
+    "phone": "001-844-780-3084x048",
+    "email": "jmason@jackson.com",
+    "tax_id": "QpW598ffm943"
+  },
+  "recipient": {
+    "name": "Christopher Welch",
+    "address": "Unit 7123 Box 0694\nDPO AP 71526",
+    "phone": "365.702.2648",
+    "email": "benjaminwalker@yahoo.com",
+    "tax_id": "lZC559kOg869"
+  },
+  "items": [
+    {
+      "description": "enable visionary metrics",
+      "quantity": 3,
+      "unit_price": 90.17,
+      "total": 270.51
+    }
+  ],
+  "subtotal": 270.51,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 43.28
+    }
+  ],
+  "total": 313.79,
+  "payment_method": "Bank Transfer",
+  "currency": "EUR"
+}

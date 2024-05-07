@@ -1,0 +1,38 @@
+{
+  "invoice_id": 639759,
+  "issue_date": "2024-03-21",
+  "due_date": "2024-05-05",
+  "issuer": {
+    "name": "Rodriguez, Brown and Lewis",
+    "address": "31217 Ian Throughway\nSharonhaven, DE 45188",
+    "phone": "(808)212-5827",
+    "email": "ubrown@vazquez-kelly.com",
+    "tax_id": "sUZ892jNn684"
+  },
+  "recipient": {
+    "name": "Ashley Watkins",
+    "address": "48121 Orr Light\nRichardport, WI 04499",
+    "phone": "(312)684-3707x308",
+    "email": "petersonashley@yahoo.com",
+    "tax_id": "uBT515oVi983"
+  },
+  "items": [
+    {
+      "description": "orchestrate integrated e-markets",
+      "quantity": 7,
+      "unit_price": 22.78,
+      "total": 159.46
+    }
+  ],
+  "subtotal": 159.46,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 25.51
+    }
+  ],
+  "total": 184.97,
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

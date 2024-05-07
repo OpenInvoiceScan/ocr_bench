@@ -1,0 +1,25 @@
+Factura
+H569724
+
+Fecha de emisión: 2024-03-18
+Fecha de vencimiento: 2024-04-19
+
+Datos del Emisor: Datos del Receptor:
+
+Juarez, Carlson and Olson Karen West
+
+71101 Ellis Cape Johnsonchester, KY 67965 USCGC Garrett FPO AE 06436
+001-525-349-0239x461 001-836-738-1191
+brandon91Oturner-davis.com alexanderpierce(O hotmail.com
+UhZ894yyl043 fcq691FbE298
+
+Descripción Cantidad Precio Unitario
+
+optimize best-of-breed schemas 8 50.26 402.08
+
+Subtotal: 402.08
+VAT (16%): 64.33
+Total: 466.41
+
+Método de pago: PayPal
+

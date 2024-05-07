@@ -1,0 +1,29 @@
+Factura
+H96311
+
+Fecha de emisión: 2024-03-24
+Fecha de vencimiento: 2024-04-20
+
+Datos del Emisor: Datos del Receptor:
+
+Stevens-Thomas Edward Anderson
+
+60225 Wells Freeway West Dorothy, MI 13075 553 Andrea Port Suite 162 South Bobfurt, NE 28243
+520.514.2735 309.509.0549x55554
+robertszacharyOchurch-nichols.com sonia85O hotmail.com
+
+Qecn591xpo988 SEL900ykD342
+
+Descripción Cantidad Precio Unitario
+
+whiteboard extensible metrics 5 64.39 321.95
+synergize interactive e-markets 2 10.33 20.66
+engineer plug-and-play content 2 88.36 176.72
+grow transparent web services 9 90.34 813.06
+
+Subtotal: 1332.3899999999999
+VAT (16%): 213.18
+Total: 1545.57
+
+Método de pago: PayPal
+

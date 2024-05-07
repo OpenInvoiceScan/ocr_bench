@@ -1,0 +1,62 @@
+{
+  "invoice_id": 956444,
+  "issue_date": "2024-03-09",
+  "due_date": "2024-05-03",
+  "issuer": {
+    "name": "Hartman LLC",
+    "address": "9254 Walker Avenue Apt. 931\nRaymondville, AR 58121",
+    "phone": "001-613-442-5789x26267",
+    "email": "chapmanshelley@grant.com",
+    "tax_id": "LRt362Lmy093"
+  },
+  "recipient": {
+    "name": "Emily Williams",
+    "address": "11230 Andrew Garden Suite 669\nMorenomouth, AZ 51114",
+    "phone": "499-897-0381x824",
+    "email": "shannon26@gmail.com",
+    "tax_id": "NIj398aoQ338"
+  },
+  "items": [
+    {
+      "description": "enable user-centric markets",
+      "quantity": 7,
+      "unit_price": 67.76,
+      "total": 474.32
+    },
+    {
+      "description": "transform scalable vortals",
+      "quantity": 6,
+      "unit_price": 56.14,
+      "total": 336.84
+    },
+    {
+      "description": "monetize robust channels",
+      "quantity": 1,
+      "unit_price": 36.74,
+      "total": 36.74
+    },
+    {
+      "description": "syndicate customized initiatives",
+      "quantity": 7,
+      "unit_price": 75.66,
+      "total": 529.62
+    },
+    {
+      "description": "cultivate impactful niches",
+      "quantity": 9,
+      "unit_price": 71.0,
+      "total": 639.0
+    }
+  ],
+  "subtotal": 2016.52,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 322.64
+    }
+  ],
+  "total": 2339.16,
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}

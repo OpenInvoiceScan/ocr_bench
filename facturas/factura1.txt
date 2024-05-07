@@ -1,0 +1,40 @@
+Factura
+H639759
+
+Fecha de emisión: 2024-03-21
+Fecha de vencimiento: 2024-05-05
+
+Datos del Emisor:
+
+Rodriguez, Brown and Lewis
+
+31217 lan Throughway Sharonhaven, DE 45188
+(808)212-5827
+
+ubrownOvazquez-kelly.com
+
+sUZ892iNn684
+
+Descripción Cantidad
+
+Datos del Receptor:
+
+Ashley Watkins
+
+48121 Orr Light Richardport, WI 04499
+(312)684-370'7x308
+petersonashleyOyahoo.com
+uBT5150Vi¡983
+
+Precio Unitario
+
+orchestrate integrated e-markets 7
+
+22.78 159.46
+
+Subtotal: 159.46
+VAT (16%): 25.51
+Total: 184.97
+
+Método de pago: Credit Card
+

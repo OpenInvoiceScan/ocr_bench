@@ -1,0 +1,38 @@
+{
+  "invoice_id": 709799,
+  "issue_date": "2024-04-03",
+  "due_date": "2024-05-07",
+  "issuer": {
+    "name": "Atkins Inc",
+    "address": "5778 Sharon Shore Apt. 717\nSouth Michaelbury, NY 89562",
+    "phone": "+1-370-799-0369x8618",
+    "email": "vanessa40@harris.com",
+    "tax_id": "sAL517xFk719"
+  },
+  "recipient": {
+    "name": "Jacob Stephenson",
+    "address": "7766 Mark Fields\nNew Lisa, KY 70357",
+    "phone": "407.268.1618",
+    "email": "lmcbride@hotmail.com",
+    "tax_id": "jDq688gTp867"
+  },
+  "items": [
+    {
+      "description": "innovate collaborative vortals",
+      "quantity": 2,
+      "unit_price": 47.15,
+      "total": 94.3
+    }
+  ],
+  "subtotal": 94.3,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 15.09
+    }
+  ],
+  "total": 109.39,
+  "payment_method": "PayPal",
+  "currency": "EUR"
+}

@@ -1,0 +1,56 @@
+{
+  "invoice_id": 581878,
+  "issue_date": "2024-03-16",
+  "due_date": "2024-04-20",
+  "issuer": {
+    "name": "Russell-Clay",
+    "address": "811 Ian Points Suite 290\nWest Peterstad, LA 72878",
+    "phone": "001-397-927-8994x562",
+    "email": "zachary37@ponce-dawson.info",
+    "tax_id": "FMq961pqN521"
+  },
+  "recipient": {
+    "name": "Cindy Davis",
+    "address": "6851 Everett Mews Suite 735\nEast Desireemouth, VT 54474",
+    "phone": "283.527.5218x7188",
+    "email": "brianpeterson@hotmail.com",
+    "tax_id": "PKS788qxc071"
+  },
+  "items": [
+    {
+      "description": "leverage cross-platform technologies",
+      "quantity": 7,
+      "unit_price": 95.88,
+      "total": 671.16
+    },
+    {
+      "description": "deploy efficient schemas",
+      "quantity": 4,
+      "unit_price": 67.07,
+      "total": 268.28
+    },
+    {
+      "description": "innovate turn-key action-items",
+      "quantity": 4,
+      "unit_price": 74.3,
+      "total": 297.2
+    },
+    {
+      "description": "leverage intuitive eyeballs",
+      "quantity": 9,
+      "unit_price": 44.27,
+      "total": 398.43
+    }
+  ],
+  "subtotal": 1635.07,
+  "taxes": [
+    {
+      "description": "VAT",
+      "percentage": 16,
+      "amount": 261.61
+    }
+  ],
+  "total": 1896.68,
+  "payment_method": "Credit Card",
+  "currency": "EUR"
+}
